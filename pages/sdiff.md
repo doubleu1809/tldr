@@ -4,20 +4,20 @@
 
 - For example the command:
 
-sdiff-a
-- Treat all files as text files. Useful for checking to see if binary files are identical.
+- Treat all files as text files. Useful for checking to see if binary files are identical:
+sdiff-a`
 
-sdiff-b
-- Ignore repeating blanks and end-of-line blanks; treat successive blanks as one.
+- Ignore repeating blanks and end-of-line blanks; treat successive blanks as one:
+sdiff-b`
 
-sdiff-B
-- Ignore blank lines in files.
+- Ignore blank lines in files:
+sdiff-B`
 
-sdiff-d
-- Ignore segments of numerous changes and output a smaller set of changes.
+- Ignore segments of numerous changes and output a smaller set of changes:
+sdiff-d`
 
-sdiff-H
-- Speed output of large files by scanning for scattered small changes; long stretches with many changes may not show up.
+- Speed output of large files by scanning for scattered small changes; long stretches with many changes may not show up:
+sdiff-H`
 
 
 `# sdiff`
