@@ -5,19 +5,19 @@
 - For example the command:
 
 - Treat all files as text files. Useful for checking to see if binary files are identical:
-sdiff-a`
+`sdiff-a`
 
 - Ignore repeating blanks and end-of-line blanks; treat successive blanks as one:
-sdiff-b`
+`sdiff-b`
 
 - Ignore blank lines in files:
-sdiff-B`
+`sdiff-B`
 
 - Ignore segments of numerous changes and output a smaller set of changes:
-sdiff-d`
+`sdiff-d`
 
 - Speed output of large files by scanning for scattered small changes; long stretches with many changes may not show up:
-sdiff-H`
+`sdiff-H`
 
 
 `# sdiff`
