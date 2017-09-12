@@ -1,7 +1,0 @@
-# onintr
-
->Control the action of a shell interrupt.
-
--For example the command:
-
-`# onintr`
