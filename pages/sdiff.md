@@ -1,6 +1,6 @@
 # sdiff
 
->  Compares two files to find differances and interactivly merges them. Without the -o option, sdiff behaves like diff-side-by-side.
+> Compares two files to find differances and interactivly merges them. Without the -o option, sdiff behaves like diff-side-by-side.
 
 - Treat all files as text files. Useful for checking to see if binary files are identical:
 
