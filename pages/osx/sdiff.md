@@ -21,3 +21,7 @@
 - Speed output of large files by scanning for scattered small changes; long stretches with many changes may not show up:
 
 `sdiff-H`
+
+- Ignore case in text comparison. Upper- and lowercase are considered the same:
+
+`sdiff-i`
